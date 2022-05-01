@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YPmq3N4fba2z+kzDUJx7kPtUm9H1wCSaBggCiDz1S6inbXgmFVUoLMukSN9bvLwb5R9rbQixZec5GEcwlXkwBw==",
+  "success": true,
+  "projectFilePath": "D:\\source\\framework\\fbognini.FluentValidation\\src\\fbognini.FluentValidation\\fbognini.FluentValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francesco\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
+    "C:\\Users\\Francesco\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Francesco\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Francesco\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\6.0.4\\microsoft.extensions.localization.abstractions.6.0.4.nupkg.sha512",
+    "C:\\Users\\Francesco\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+D:\source\framework\fbognini.FluentValidation\src\fbognini.FluentValidation\bin\Debug\netstandard2.1\fbognini.FluentValidation.deps.json
+D:\source\framework\fbognini.FluentValidation\src\fbognini.FluentValidation\bin\Debug\netstandard2.1\fbognini.FluentValidation.dll
+D:\source\framework\fbognini.FluentValidation\src\fbognini.FluentValidation\bin\Debug\netstandard2.1\fbognini.FluentValidation.pdb
+D:\source\framework\fbognini.FluentValidation\src\fbognini.FluentValidation\obj\Debug\netstandard2.1\fbognini.FluentValidation.csproj.AssemblyReference.cache
+D:\source\framework\fbognini.FluentValidation\src\fbognini.FluentValidation\obj\Debug\netstandard2.1\fbognini.FluentValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\framework\fbognini.FluentValidation\src\fbognini.FluentValidation\obj\Debug\netstandard2.1\fbognini.FluentValidation.AssemblyInfoInputs.cache
+D:\source\framework\fbognini.FluentValidation\src\fbognini.FluentValidation\obj\Debug\netstandard2.1\fbognini.FluentValidation.AssemblyInfo.cs
+D:\source\framework\fbognini.FluentValidation\src\fbognini.FluentValidation\obj\Debug\netstandard2.1\fbognini.FluentValidation.csproj.CoreCompileInputs.cache
+D:\source\framework\fbognini.FluentValidation\src\fbognini.FluentValidation\obj\Debug\netstandard2.1\fbognini.FluentValidation.dll
+D:\source\framework\fbognini.FluentValidation\src\fbognini.FluentValidation\obj\Debug\netstandard2.1\fbognini.FluentValidation.pdb

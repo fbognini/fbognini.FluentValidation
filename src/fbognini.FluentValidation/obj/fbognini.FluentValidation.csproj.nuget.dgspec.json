@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\source\\framework\\fbognini.FluentValidation\\src\\fbognini.FluentValidation\\fbognini.FluentValidation.csproj": {}
+  },
+  "projects": {
+    "D:\\source\\framework\\fbognini.FluentValidation\\src\\fbognini.FluentValidation\\fbognini.FluentValidation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\source\\framework\\fbognini.FluentValidation\\src\\fbognini.FluentValidation\\fbognini.FluentValidation.csproj",
+        "projectName": "fbognini.FluentValidation",
+        "projectPath": "D:\\source\\framework\\fbognini.FluentValidation\\src\\fbognini.FluentValidation\\fbognini.FluentValidation.csproj",
+        "packagesPath": "C:\\Users\\Francesco\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\framework\\fbognini.FluentValidation\\src\\fbognini.FluentValidation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Francesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
